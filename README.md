@@ -1,2 +1,2 @@
 # jewish-recipe-book-react
-Jewish Recipes' book made with React.
+https://github.com/gmalamuddeb/jewish-recipe-book-react.git
